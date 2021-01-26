@@ -22,7 +22,7 @@ totalDmg = totalDmg * reduction;
 console.log(
   `el daño de ${character} es: ${totalDmg} and the reduction is : ${
     Math.trunc(reduction * 100) - 100
-  } %`
+  } % and therefore this is a test`
 );
 
 //Albedo
